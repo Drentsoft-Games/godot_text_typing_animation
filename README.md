@@ -18,3 +18,9 @@ By default the Append mode is selected. To change mode, press one of the 3 mode 
 Press Start to see the animation effect.
 
 You can change the timer wait time using the spin box just above the Start button.
+
+# Video Explanation
+[How To Animate Typed Text in Godot] (https://youtu.be/JGaOpgvXxO4)
+
+# Text Explanation
+[How to create typing effect animations in Godot - Blog] (https://drentsoftgames.com/godot-quick-tip-typing-text-effect/)
