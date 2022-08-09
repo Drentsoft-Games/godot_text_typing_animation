@@ -20,7 +20,7 @@ Press Start to see the animation effect.
 You can change the timer wait time using the spin box just above the Start button.
 
 # Video Explanation
-[<img src="https://i.ytimg.com/vi/JGaOpgvXxO4/maxresdefault.jpg" width="50%">](https://youtu.be/JGaOpgvXxO4 "How To Animate Typed Text in Godot")
+[<img src="https://i.ytimg.com/vi/WVGAErOd3Z0/maxresdefault.jpg" width="50%">](https://youtu.be/WVGAErOd3Z0 "How To Animate Typed Text in Godot")
 
 # Text Explanation
 [How to create typing effect animations in Godot - Blog] (https://drentsoftgames.com/godot-quick-tip-typing-text-effect/)
